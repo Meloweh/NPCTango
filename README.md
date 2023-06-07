@@ -2,7 +2,7 @@
 
 Description:
 
-In this project, I manipulated the sprites and collision masks of loaded NPCs in range to past player positions in an emulated game, forming a queue of multiple people following the player.
+In this project, I override the positions of loaded NPC sprites and collision masks in an emulated game, forming a queue of multiple people that follow the player.
 
 For copyright reasons, the game and emulator have not been included here.
 

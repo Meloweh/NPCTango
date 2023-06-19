@@ -8,7 +8,7 @@ For copyright reasons, the game and emulator have not been included here.
 
 ## Video
 
-[![Demo](http://img.youtube.com/vi/Bgv21Ww3v7A/0.jpg)](http://www.youtube.com/watch?v=Bgv21Ww3v7A "Pokemon Tango")
+https://github.com/Meloweh/NPCTango/assets/49780209/60967f6a-9725-4001-9f87-6fd5856749fa
 
 ## Languages
 
